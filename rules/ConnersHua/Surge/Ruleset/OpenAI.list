@@ -17,4 +17,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-KEYWORD,openai
