@@ -1,4 +1,4 @@
-#binance
+#binance & okx
 # NAME: CoinTrade
 # AUTHOR: zptpower1
 # REPO: https://github.com/zptpower1/nash
@@ -13,4 +13,6 @@ DOMAIN-SUFFIX,geolocation.onetrust.com
 DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,api.saasexch.com
 DOMAIN-SUFFIX,log.bntrace.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okcoin.com
 DOMAIN-KEYWORD,binance
