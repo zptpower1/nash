@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-KEYWORD,openai
 
 # UltraMobile use as openai
-IP-CIDR,208.54.0.0/16
+IP-CIDR,208.54.0.0/16,no-resolve
