@@ -24,3 +24,8 @@ DOMAIN-KEYWORD,bccto.
 DOMAIN-KEYWORD,chacuo.
 DOMAIN-KEYWORD,027168.
 DOMAIN-SUFFIX,router.asus.com
+
+# UltraMobile direct
+DOMAIN-SUFFIX,pub.3gppnetwork.org
+DOMAIN-KEYWORD,ultramobile
+IP-CIDR,208.54.0.0/16,no-resolve
