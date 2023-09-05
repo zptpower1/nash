@@ -21,8 +21,3 @@ DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-KEYWORD,openai
-
-# UltraMobile use as openai
-DOMAIN-SUFFIX,pub.3gppnetwork.org
-DOMAIN-KEYWORD,ultramobile
-IP-CIDR,208.54.0.0/16,no-resolve
