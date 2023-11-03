@@ -15,4 +15,6 @@ DOMAIN-SUFFIX,api.saasexch.com
 DOMAIN-SUFFIX,log.bntrace.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okcoin.com
+#dupay:
+DOMAIN-SUFFIX,hexagramglobal.com
 DOMAIN-KEYWORD,binance
