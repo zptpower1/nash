@@ -5,9 +5,25 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 8
 # TOTAL: 9
-DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,abadena.com
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,go.admjmp.com
+#japan
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,x18r.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,moodyz.com
+DOMAIN-SUFFIX,s1s1s1.com
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,madonna-av
+DOMAIN-SUFFIX,kawaiikawaii.jp
+DOMAIN-SUFFIX,sod.co.jp
+DOMAIN-SUFFIX,dahlia-av.jp
+DOMAIN-SUFFIX,premium-beauty.com
+DOMAIN-SUFFIX,dasdas.jp
+DOMAIN-SUFFIX,honnaka.jp
+DOMAIN-SUFFIX,prestige-av.com
+DOMAIN-SUFFIX,attackers.net
+DOMAIN-SUFFIX,ideapocket.com
 DOMAIN-KEYWORD,jable
