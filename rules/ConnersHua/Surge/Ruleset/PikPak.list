@@ -1,0 +1,10 @@
+# > PikPak
+
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-KEYWORD,pikpak
+
+PROCESS-NAME,PikPak
+PROCESS-NAME,PikPakUpdater
+USER-AGENT,PikPak*
+USER-AGENT,PikPakiOSApp*
+
