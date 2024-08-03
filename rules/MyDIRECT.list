@@ -1,0 +1,7 @@
+#用于解决plex https代理导致ip判定错误，无法外网链接问题
+DOMAIN-SUFFIX,plex.direct
+
+# UltraMobile direct
+DOMAIN-SUFFIX,pub.3gppnetwork.org
+DOMAIN-KEYWORD,ultramobile.
+IP-CIDR,208.54.0.0/16,no-resolve
