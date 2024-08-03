@@ -1,5 +1,9 @@
-# > PikPak
+# 增加其它走新加坡区的媒体服务
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com
+DOMAIN-SUFFIX,tmdb.org
 
+# > PikPak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-KEYWORD,pikpak
 
