@@ -1,5 +1,6 @@
 #用于解决plex https代理导致ip判定错误，无法外网链接问题
 DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,v4.plex.tv
 
 # UltraMobile direct
 DOMAIN-SUFFIX,pub.3gppnetwork.org
