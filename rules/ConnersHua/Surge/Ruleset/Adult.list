@@ -76,8 +76,9 @@ DOMAIN-SUFFIX,pcolle.com
 DOMAIN-SUFFIX,tokyo-hot.com
 DOMAIN-SUFFIX,xxx-av.com
 DOMAIN-SUFFIX,fc2hub.com
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,jdbstatic.com
+#移除javdb相关,日区被禁止访问
+#DOMAIN-SUFFIX,javdb.com
+#DOMAIN-SUFFIX,jdbstatic.com
 #<===
 
 DOMAIN-SUFFIX,cdn2020.com
