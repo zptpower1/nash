@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,pikpak
 
 PROCESS-NAME,PikPak
 PROCESS-NAME,PikPakUpdater
+PROCESS-NAME,com.pikcloud.pikpak
 USER-AGENT,PikPak*
 USER-AGENT,PikPakiOSApp*
 
