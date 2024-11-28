@@ -6,6 +6,9 @@
 # DOMAIN-SUFFIX: 12
 # TOTAL: 13
 
+#other to usa
+DOMAIN-SUFFIX,fly.io
+DOMAIN-SUFFIX,bestbuy.com
 #ultramobile
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,braintreegateway.com
@@ -25,8 +28,10 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,unpkg.com
 #claudeai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-KEYWORD,openai,claude
+DOMAIN-KEYWORD,openai,claude,chatgpt
