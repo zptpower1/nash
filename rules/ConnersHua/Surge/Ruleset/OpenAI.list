@@ -10,6 +10,8 @@
 DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,github.com
+#other ai tools
+DOMAIN-SUFFIX,getmerlin.in
 #ultramobile
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,braintreegateway.com
