@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,getmerlin.in
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,braintreegateway.com
 #openai
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
