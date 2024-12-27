@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,go.admjmp.com
 DOMAIN-SUFFIX,alonestreaming.com
 #japan
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,x18r.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,moodyz.com
@@ -36,6 +34,9 @@ DOMAIN-SUFFIX,maxing.jp
 DOMAIN-SUFFIX,skyearth.xyz
 DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,plyr.io
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,x18r.com
 
 #web video for bestjavporn ===>
 DOMAIN-SUFFIX,javplayer.me
