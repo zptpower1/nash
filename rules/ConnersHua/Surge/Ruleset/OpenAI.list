@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,braintreegateway.com
 #oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,cybersource.com
 #openai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com
