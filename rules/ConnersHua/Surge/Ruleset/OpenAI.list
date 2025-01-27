@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,braintreegateway.com
 #oracle
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
 #openai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com
