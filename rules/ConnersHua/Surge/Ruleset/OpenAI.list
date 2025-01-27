@@ -42,3 +42,5 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai,claude,chatgpt
+#openrouter
+DOMAIN-SUFFIX,openrouter.ai
