@@ -1,1 +1,7 @@
 # > tvbox 指定直连站
+
+#USER-AGENT,Spotify*
+DOMAIN-SUFFIX,xxooo.cf
+
+#DOMAIN-KEYWORD,spotify.com
+#DOMAIN-KEYWORD,-spotify-com
