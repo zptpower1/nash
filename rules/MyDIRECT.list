@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,xiaoya.pro
 
 # UltraMobile direct
-DOMAIN-SUFFIX,pub.3gppnetwork.org
-DOMAIN-KEYWORD,ultramobile.
-IP-CIDR,208.54.0.0/16,no-resolve
+#DOMAIN-SUFFIX,pub.3gppnetwork.org
+#DOMAIN-KEYWORD,ultramobile.
+#IP-CIDR,208.54.0.0/16,no-resolve
+
+#yun
+DOMAIN-SUFFIX,aliyuncs.com
