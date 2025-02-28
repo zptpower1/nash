@@ -45,6 +45,10 @@ DOMAIN-KEYWORD,openai,claude,chatgpt
 #x.ai  gork
 DOMAIN-SUFFIX,x.ai
 
+#mistral
+DOMAIN-SUFFIX,mistral.ai
+
 #other ai service
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,continue.dev
