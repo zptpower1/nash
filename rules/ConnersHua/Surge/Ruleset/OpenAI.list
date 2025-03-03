@@ -49,6 +49,6 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,mistral.ai
 
 #other ai service
-DOMAIN-SUFFIX,openrouter.ai
+#DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,continue.dev
