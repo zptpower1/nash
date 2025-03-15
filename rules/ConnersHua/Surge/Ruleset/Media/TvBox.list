@@ -16,5 +16,12 @@ DOMAIN-SUFFIX,uhibo.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,123in.link
 
+# for Myfun服
+DOMAIN,cfptv.ii00.cc
+DOMAIN,wptv.ii00.cc
+DOMAIN,cfgtv.ii00.cc
+DOMAIN,wgtv.ii00.cc
+DOMAIN,music.mefun.vip
+
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
