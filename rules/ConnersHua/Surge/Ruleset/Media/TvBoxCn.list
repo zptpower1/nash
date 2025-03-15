@@ -3,5 +3,12 @@
 #USER-AGENT,Spotify*
 DOMAIN-SUFFIX,xxooo.cf
 
+# for Myfun服国内直连
+DOMAIN,p.once.im
+DOMAIN,sptv.ii00.cc
+DOMAIN,g.once.im
+DOMAIN,sgtv.ii00.cc
+DOMAIN,cn-music.mefun.vip
+
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
