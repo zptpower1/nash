@@ -12,6 +12,7 @@ DOMAIN,cn-music.mefun.vip
 
 # for ntRRR with SYN机场服国内优化
 DOMAIN-SUFFIX,makima.online
+DOMAIN-SUFFIX,clip.synn.cc
 
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
