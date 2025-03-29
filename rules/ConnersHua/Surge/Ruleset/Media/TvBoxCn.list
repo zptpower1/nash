@@ -3,6 +3,9 @@
 #USER-AGENT,Spotify*
 DOMAIN-SUFFIX,xxooo.cf
 
+#for 探花
+DOMIAIN,tanhuatv.site
+
 # for Mefun服国内直连
 DOMAIN,p.once.im
 DOMAIN,sptv.ii00.cc
