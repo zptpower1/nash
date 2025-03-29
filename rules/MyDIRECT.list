@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,v4.plex.tv
 #其它
 DOMAIN-SUFFIX,xiaoya.pro
 
+#家
+DOMAIN,qhora301w5517e2.myqnapcloud.com
+DOMAIN-SUFFIX,h.27ke.cn
+
 # UltraMobile direct
 #DOMAIN-SUFFIX,pub.3gppnetwork.org
 #DOMAIN-KEYWORD,ultramobile.
