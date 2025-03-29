@@ -3,12 +3,15 @@
 #USER-AGENT,Spotify*
 DOMAIN-SUFFIX,xxooo.cf
 
-# for Myfun服国内直连
+# for Mefun服国内直连
 DOMAIN,p.once.im
 DOMAIN,sptv.ii00.cc
 DOMAIN,g.once.im
 DOMAIN,sgtv.ii00.cc
 DOMAIN,cn-music.mefun.vip
+
+# for ntRRR with SYN机场服国内优化
+DOMAIN-SUFFIX,makima.online
 
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
