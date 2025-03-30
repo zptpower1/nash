@@ -16,19 +16,22 @@ DOMAIN-SUFFIX,uhibo.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,123in.link
 
-# for Myfun服
+# for Mefun
 DOMAIN,cfptv.ii00.cc
 DOMAIN,wptv.ii00.cc
 DOMAIN,cfgtv.ii00.cc
 DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
 
-# for ntRRR with SYN机场服国际线路
+# for ntRRR with SYN机场服
 DOMAIN,stream.synn.cc
 
-# for zox服
+# for zox
 DOMAIN,entry.zox.show
 DOMAIN,ip.zox.show
+
+#for NYA公益服
+DOMAIN,emby.bangumi.ca
 
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
