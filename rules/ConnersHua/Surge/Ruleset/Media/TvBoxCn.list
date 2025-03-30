@@ -3,9 +3,11 @@
 #USER-AGENT,Spotify*
 DOMAIN-SUFFIX,xxooo.cf
 
-# for myemby
+# for myemby,注意只支持80和443端口，带端口会无效
 DOMAIN-SUFFIX,h.27ke.cn
 DOMAIN-SUFFIX,QHora301W5517E2.myqnapcloud.com
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,cjjd19.com
 
 # for 探花tv
 DOMAIN-SUFFIX,tanhuatv.site
