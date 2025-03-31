@@ -31,7 +31,7 @@ DOMAIN,stream.synn.cc
 
 # for zox
 DOMAIN,entry.zox.show
-DOMAIN,ip.zox.show
+#DOMAIN,ip.zox.show
 
 #for NYA公益服
 DOMAIN,emby.bangumi.ca
