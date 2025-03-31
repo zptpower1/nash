@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,uhibo.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,123in.link
 
+# for 探花tv
+DOMAIN-SUFFIX,tanhuatv.site
+
 # for Mefun
 DOMAIN,cfptv.ii00.cc
 DOMAIN,wptv.ii00.cc
