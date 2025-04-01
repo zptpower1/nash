@@ -3,26 +3,22 @@
 #USER-AGENT,Spotify*
 DOMAIN-SUFFIX,xxooo.cf
 
-# for myemby,注意只支持80和443端口，带端口会无效
+# for myemby, fq不可用
 DOMAIN-SUFFIX,h.27ke.cn
 DOMAIN-SUFFIX,QHora301W5517E2.myqnapcloud.com
 DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,cjjd19.com
 
-# for Mefun服国内直连
+# for Mefun服国内直连优化，fq则不可用
 DOMAIN,p.once.im
 DOMAIN,sptv.ii00.cc
 DOMAIN,g.once.im
 DOMAIN,sgtv.ii00.cc
 DOMAIN,cn-music.mefun.vip
 
-# for ntRRR with SYN机场服国内优化
+# for ntRRR with SYN机场服国内优化线
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,clip.synn.cc
-
-# for zox
-DOMAIN-SUFFIX,101105.xyz
-DOMAIN,ip.zox.show
 
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
