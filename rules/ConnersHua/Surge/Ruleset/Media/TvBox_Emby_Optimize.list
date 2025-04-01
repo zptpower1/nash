@@ -1,0 +1,18 @@
+# > emby服线路优化
+
+# for 探花tv 可直连，未优化
+DOMAIN-SUFFIX,tanhuatv.site
+
+# for ntRRR with SYN机场服，境外线路，未优化
+DOMAIN,stream.synn.cc
+
+# for zox 公费服，可直连，未优化
+DOMAIN,entry.zox.show
+DOMAIN,ip.zox.show
+DOMAIN-SUFFIX,101105.xyz
+
+#for NYA公益服，可直连，未优化
+DOMAIN,emby.bangumi.ca
+
+#for 1111公费服，可直连，未优化
+DOMAIN,line.xmsl.org
