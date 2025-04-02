@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,QHora301W5517E2.myqnapcloud.com
 DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,cjjd19.com
 
+# for 冰红茶共享的赔钱机场地址，翻墙不可用
+DOMAIN,binghongcha.online
+
 # for Mefun服国内直连优化，fq则不可用
 DOMAIN,p.once.im
 DOMAIN,sptv.ii00.cc
