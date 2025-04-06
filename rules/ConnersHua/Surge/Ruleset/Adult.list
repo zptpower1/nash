@@ -30,14 +30,18 @@ DOMAIN-SUFFIX,tameikegoro.jp
 DOMAIN-SUFFIX,t-powers.co.jp
 DOMAIN-SUFFIX,mvg.jp
 DOMAIN-SUFFIX,maxing.jp
+
 #web video
 DOMAIN-SUFFIX,skyearth.xyz
 DOMAIN-SUFFIX,njav.tv
-DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,missav.sh
-DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,x18r.com
+DOMAIN-KEYWORD,123av
+DOMAIN-KEYWORD,jable
+DOMAIN-SUFFIX,cdn2020.com
+DOMAIN-SUFFIX,up-timely.com
+
 
 #web video for bestjavporn ===>
 DOMAIN-SUFFIX,javplayer.me
@@ -83,6 +87,3 @@ DOMAIN-SUFFIX,fc2hub.com
 #DOMAIN-SUFFIX,jdbstatic.com
 #<===
 
-DOMAIN-SUFFIX,cdn2020.com
-DOMAIN-SUFFIX,up-timely.com
-DOMAIN-KEYWORD,jable
