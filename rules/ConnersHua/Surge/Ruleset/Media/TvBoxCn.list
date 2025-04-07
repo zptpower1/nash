@@ -1,6 +1,9 @@
 # > tvbox 指定直连站
 
 #USER-AGENT,Spotify*
+# for my domain
+DOMAIN-SUFFIX,v9.gg
+
 DOMAIN-SUFFIX,xxooo.cf
 
 # for myemby, fq不可用
