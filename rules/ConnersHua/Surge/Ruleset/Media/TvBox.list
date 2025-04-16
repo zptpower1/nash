@@ -24,7 +24,7 @@ DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
 
 # for zox 必须翻墙的节点
-DOMAIN,cf.zox.show
+#DOMAIN,cf.zox.show
 
 #DOMAIN-KEYWORD,spotify.com
 #DOMAIN-KEYWORD,-spotify-com
