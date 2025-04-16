@@ -2,7 +2,7 @@
 
 #USER-AGENT,Spotify*
 # for my domain
-DOMAIN-SUFFIX,v9.gg
+#DOMAIN-SUFFIX,v9.gg
 
 DOMAIN-SUFFIX,xxooo.cf
 
