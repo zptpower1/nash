@@ -9,6 +9,9 @@ DOMAIN,stream.synn.cc
 # for zox 公费服，可直连，未优化
 DOMAIN,entry.zox.show
 DOMAIN,ip.zox.show
+DOMAIN,cf.zox.show
+#301 资源地址
+DOMAIN,media.zox.show
 DOMAIN-SUFFIX,101105.xyz
 
 #for NYA公益服，可直连，未优化
@@ -16,3 +19,5 @@ DOMAIN,emby.bangumi.ca
 
 #for 1111公费服，可直连，未优化
 DOMAIN,line.xmsl.org
+#302 资源服
+DOMAIN,gfhd.19991998.xyz
