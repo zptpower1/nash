@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,getmerlin.in
 #ultramobile
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,braintreegateway.com
+PROCESS-NAME,com.uvnv.ultramobile
 
 #openai
 DOMAIN-SUFFIX,sora.com
