@@ -12,13 +12,6 @@ DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,github.com
 #other ai tools
 DOMAIN-SUFFIX,getmerlin.in
-#ultramobile
-DOMAIN-SUFFIX,ultramobile.com
-DOMAIN-SUFFIX,braintreegateway.com
-PROCESS-NAME,com.uvnv.ultramobile
-#giffgaff
-DOMAIN-KEYWORD,giffgaff
-PROCESS-NAME,com.giffgaffmobile.controller
 
 #openai
 DOMAIN-SUFFIX,sora.com
