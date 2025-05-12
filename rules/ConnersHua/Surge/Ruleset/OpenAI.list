@@ -43,6 +43,7 @@ DOMAIN-KEYWORD,claude
 
 #x.ai  gork
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 
 #mistral
 DOMAIN-SUFFIX,mistral.ai
