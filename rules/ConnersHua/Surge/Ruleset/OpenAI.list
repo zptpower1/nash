@@ -33,11 +33,13 @@ DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
 #claudeai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-KEYWORD,openai,claude,chatgpt
+DOMAIN-KEYWORD,claude
 
 #x.ai  gork
 DOMAIN-SUFFIX,x.ai
