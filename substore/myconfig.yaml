@@ -201,8 +201,7 @@ proxy-groups:
       - FILTER,^((?!狮城|SGP|香港|HKG|MAC|台湾|TWN|日本|JAP|JPN|英国|GBR|美国|USA).)*$
   - name: 🚀 手动切换
     type: select
-    proxies:
-      - ALL
+    proxies: []
   - name: 🇬🇧 英国金融
     type: select
     proxies:
