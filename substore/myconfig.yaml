@@ -1,0 +1,371 @@
+rule-providers:
+  LocalAreaNetwork:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/LocalAreaNetwork.list
+    interval: 86400
+    path: ./rules/LocalAreaNetwork.list
+  Unbreak:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Unbreak.list
+    interval: 86400
+    path: ./rules/Unbreak.list
+  Hijacking:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Hijacking.list
+    interval: 86400
+    path: ./rules/Hijacking.list
+  Advertising:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Advertising.list
+    interval: 86400
+    path: ./rules/Advertising.list
+  YouTube:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/YouTube.list
+    interval: 86400
+    path: ./rules/YouTube.list
+  Netflix:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Netflix.list
+    interval: 86400
+    path: ./rules/Netflix.list
+  Google:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Google.list
+    interval: 86400
+    path: ./rules/Google.list
+  CoinTrade:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/CoinTrade.list
+    interval: 86400
+    path: ./rules/CoinTrade.list
+  PayPal:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/PayPal.list
+    interval: 86400
+    path: ./rules/PayPal.list
+  Telegram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Telegram.list
+    interval: 86400
+    path: ./rules/Telegram.list
+  UKWifiCalling:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/UKWifiCalling.list
+    interval: 86400
+    path: ./rules/UKWifiCalling.list
+  UKRestricted:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/UKRestricted.list
+    interval: 86400
+    path: ./rules/UKRestricted.list
+  USWifiCalling:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/USWifiCalling.list
+    interval: 86400
+    path: ./rules/USWifiCalling.list
+  USRestricted:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/USRestricted.list
+    interval: 86400
+    path: ./rules/USRestricted.list
+  OpenAI:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/OpenAI.list
+    interval: 86400
+    path: ./rules/OpenAI.list
+  Adult:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Adult.list
+    interval: 86400
+    path: ./rules/Adult.list
+  Pornhub:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Media/Pornhub.list
+    interval: 86400
+    path: ./rules/Pornhub.list
+  DisneyPlus:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Media/DisneyPlus.list
+    interval: 86400
+    path: ./rules/DisneyPlus.list
+  HBO:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Media/HBO.list
+    interval: 86400
+    path: ./rules/HBO.list
+  OtherMedia:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/OtherMedia.list
+    interval: 86400
+    path: ./rules/OtherMedia.list
+  Apple:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Apple.list
+    interval: 86400
+    path: ./rules/Apple.list
+  MSServices:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/MSServices.list
+    interval: 86400
+    path: ./rules/MSServices.list
+  DIRECT:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/DIRECT.list
+    interval: 86400
+    path: ./rules/DIRECT.list
+  MyDIRECT:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/MyDIRECT.list
+    interval: 86400
+    path: ./rules/MyDIRECT.list
+  China:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/China.list
+    interval: 86400
+    path: ./rules/China.list
+  Download:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/NobyDa/Surge/Download.list
+    interval: 86400
+    path: ./rules/Download.list
+  TvBoxCn:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Media/TvBoxCn.list
+    interval: 86400
+    path: ./rules/TvBoxCn.list
+  GeoIP_CN:
+    type: http
+    behavior: ipcidr
+    url: "[]GEOIP,CN"
+    interval: 86400
+    path: ./rules/GeoIP_CN.list
+  Final:
+    type: http
+    behavior: domain
+    url: "[]FINAL"
+    interval: 86400
+    path: ./rules/Final.list
+
+proxy-groups:
+  - name: 🇭🇰 香港节点
+    type: select
+    proxies:
+      - FILTER,香港|HKG|MAC
+  - name: 🇨🇳 台湾节点
+    type: select
+    proxies:
+      - FILTER,台湾|TWN
+  - name: 🇸🇬 狮城节点
+    type: select
+    proxies:
+      - FILTER,狮城|SGP
+  - name: 🇯🇵 日本节点
+    type: select
+    proxies:
+      - FILTER,日本|JAP|JPN
+  - name: 🇺🇸 美国节点
+    type: select
+    proxies:
+      - FILTER,美国|USA
+  - name: 🚀 其他节点
+    type: select
+    proxies:
+      - FILTER,^((?!狮城|SGP|香港|HKG|MAC|台湾|TWN|日本|JAP|JPN|英国|GBR|美国|USA).)*$
+  - name: 🚀 手动切换
+    type: select
+    proxies:
+      - ALL
+  - name: 🇬🇧 英国金融
+    type: select
+    proxies:
+      - FILTER,英国|GBR
+  - name: 🇺🇸 美国金融
+    type: select
+    proxies:
+      - FILTER,美国|USA
+  - name: 📲 电报吹水
+    type: select
+    proxies:
+      - 🇸🇬 狮城节点
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🇬🇧 英国金融
+  - name: 📹 YouTube
+    type: select
+    proxies:
+      - 🇸🇬 狮城节点
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 其他节点
+      - 🚀 手动切换
+  - name: 🎥 NETFLIX
+    type: select
+    proxies:
+      - FILTER,NF|解锁|Netflix|NETFLIX
+      - 🚀 手动切换
+  - name: 🔍️ Google
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🇸🇬 狮城节点
+      - 🚀 手动切换
+  - name: 💵 币圈交易
+    type: select
+    proxies:
+      - 🇨🇳 台湾节点
+      - 🇭🇰 香港节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 手动切换
+  - name: 💵 PayPal
+    type: select
+    proxies:
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 其他节点
+      - 🚀 手动切换
+      - DIRECT
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - 🇸🇬 狮城节点
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🚀 其他节点
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 其他节点
+  - name: 🇯🇵 日本媒体
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 手动切换
+  - name: 🎥 Disney
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 手动切换
+  - name: 📹 HBO
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇺🇸 美国节点
+      - 🇺🇸 美国金融
+      - 🚀 手动切换
+
+rules:
+  - RULE-SET,LocalAreaNetwork,DIRECT
+  - RULE-SET,Unbreak,DIRECT
+  - RULE-SET,Hijacking,🛑 全球拦截
+  - RULE-SET,Advertising,🛑 全球拦截
+  - RULE-SET,YouTube,📹 YouTube
+  - RULE-SET,Netflix,🎥 NETFLIX
+  - RULE-SET,Google,🔍️ Google
+  - RULE-SET,CoinTrade,💵 币圈交易
+  - RULE-SET,PayPal,💵 PayPal
+  - RULE-SET,Telegram,📲 电报吹水
+  - RULE-SET,UKWifiCalling,🇬🇧 英国金融
+  - RULE-SET,UKRestricted,🇬🇧 英国金融
+  - RULE-SET,USWifiCalling,🇺🇸 美国金融
+  - RULE-SET,USRestricted,🇺🇸 美国金融
+  - RULE-SET,OpenAI,🇺🇸 美国金融
+  - RULE-SET,Adult,🇯🇵 日本媒体
+  - RULE-SET,Pornhub,🇯🇵 日本媒体
+  - RULE-SET,DisneyPlus,🎥 Disney
+  - RULE-SET,HBO,📹 HBO
+  - RULE-SET,OtherMedia,📹 HBO
+  - RULE-SET,Apple,🍎 苹果服务
+  - RULE-SET,MSServices,Ⓜ️ 微软服务
+  - RULE-SET,DIRECT,DIRECT
+  - RULE-SET,MyDIRECT,DIRECT
+  - RULE-SET,China,DIRECT
+  - RULE-SET,Download,DIRECT
+  - RULE-SET,TvBoxCn,DIRECT
+  - RULE-SET,GeoIP_CN,DIRECT
+  - RULE-SET,Final,🐟 漏网之鱼
