@@ -1,3 +1,4 @@
+#暂时废弃，改用substore直接管理节点
 function parseVLESS(link) {
   const url = new URL(link);
   const params = url.searchParams;
