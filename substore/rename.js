@@ -41,11 +41,6 @@ function operator(proxies, targetPlatform, context) {
     // 更新节点名称
     proxy.name = name;
 
-    // 可选：为 Trojan 节点启用 tfo（结合之前的 Trojan 上下文）
-    if (proxy.type === 'trojan') {
-      proxy.tfo = true; // 启用 TCP Fast Open
-    }
-
     return proxy;
   });
 }
