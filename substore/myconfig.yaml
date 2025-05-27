@@ -116,6 +116,10 @@ rule-providers:
     <<: *text
     url: https://p.v9.gg/raw.githubusercontent.com/zptpower1/nash/myini/rules/ConnersHua/Surge/Ruleset/Media/TvBoxCn.list
     path: ./rules/TvBoxCn.list
+  PornCategory:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-porn.yaml"
+    path: ./rules/PornCategory.list
   spotify_domain:
     <<: *domain
     url: "https://p.v9.gg/raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.mrs"
@@ -246,6 +250,7 @@ proxy-groups:
       - 🇺🇸 美国节点
       - 🇺🇸 美国金融
       - 🚀 手动切换
+      - REJECT
   - name: 🎥 Disney
     type: select
     proxies:
@@ -353,6 +358,7 @@ rules:
   - RULE-SET,Apple,🍎 苹果服务
   - RULE-SET,Adult,🇯🇵 日本媒体
   - RULE-SET,Pornhub,🇯🇵 日本媒体
+  - RULE-SET,PornCategory,🇯🇵 日本媒体
   - RULE-SET,DisneyPlus,🎥 Disney
   - RULE-SET,HBO,📹 HBO
   - RULE-SET,OtherMedia,📹 HBO
