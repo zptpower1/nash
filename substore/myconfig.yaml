@@ -1,6 +1,5 @@
 #同步备份mihomo-party编写的手搓-基础策略
 #规则订阅
-#规则订阅
 rule-anchor:
   text: &text {type: http, interval: 86400, behavior: classical, format: text}
   ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
