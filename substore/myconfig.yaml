@@ -1,5 +1,6 @@
 #同步备份mihomo-party编写的手搓-基础策略
 #规则订阅
+#规则订阅
 rule-anchor:
   text: &text {type: http, interval: 86400, behavior: classical, format: text}
   ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
@@ -335,26 +336,26 @@ rules:
   - RULE-SET,Unbreak,DIRECT
   - RULE-SET,Hijacking,🛑 全球拦截
   - RULE-SET,Advertising,🛑 全球拦截
-  - RULE-SET,YouTube,📹 YouTube
-  - RULE-SET,Netflix,🎥 NETFLIX
-  - RULE-SET,netflix_ip,🎥 NETFLIX
-  - RULE-SET,Google,🔍️ Google
-  - RULE-SET,google_ip,🔍️ Google
-  - RULE-SET,CoinTrade,💵 币圈交易
   - RULE-SET,PayPal,💵 PayPal
-  - RULE-SET,Telegram,📲 电报吹水
-  - RULE-SET,telegram_ip,📲 电报吹水
+  - RULE-SET,CoinTrade,💵 币圈交易
   - RULE-SET,UKWifiCalling,🇬🇧 英国金融
   - RULE-SET,UKRestricted,🇬🇧 英国金融
   - RULE-SET,USWifiCalling,🇺🇸 美国金融
   - RULE-SET,USRestricted,🇺🇸 美国金融
   - RULE-SET,OpenAI,🇺🇸 美国金融
+  - RULE-SET,YouTube,📹 YouTube
+  - RULE-SET,Netflix,🎥 NETFLIX
+  - RULE-SET,netflix_ip,🎥 NETFLIX
+  - RULE-SET,Google,🔍️ Google
+  - RULE-SET,google_ip,🔍️ Google
+  - RULE-SET,Telegram,📲 电报吹水
+  - RULE-SET,telegram_ip,📲 电报吹水
+  - RULE-SET,Apple,🍎 苹果服务
   - RULE-SET,Adult,🇯🇵 日本媒体
   - RULE-SET,Pornhub,🇯🇵 日本媒体
   - RULE-SET,DisneyPlus,🎥 Disney
   - RULE-SET,HBO,📹 HBO
   - RULE-SET,OtherMedia,📹 HBO
-  - RULE-SET,Apple,🍎 苹果服务
   - RULE-SET,MSServices,Ⓜ️ 微软服务
   - RULE-SET,DIRECT,DIRECT
   - RULE-SET,MyDIRECT,DIRECT
