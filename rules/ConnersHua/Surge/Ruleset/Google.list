@@ -55,3 +55,5 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
+#google app market
+PROCESS-NAME,com.android.vending
