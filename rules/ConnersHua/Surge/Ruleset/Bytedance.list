@@ -1,4 +1,6 @@
-# NAME: TikTok https://github.com/Semporia/TikTok-Unlock
+# NAME: Bytedance
+# https://github.com/Semporia/TikTok-Unlock
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/TikTok/TikTok.list
 
 #字节系通用
 DOMAIN-SUFFIX,byteoversea.com
